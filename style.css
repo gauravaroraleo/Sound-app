@@ -1,0 +1,27 @@
+.footer {
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    background-color: aquamarine;
+    color: green;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+body {
+    background-color: cornflowerblue;
+    font-family: cochin
+}
+
+.header {
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+    box-shadow: 15px 15px 20px black
+}
+
+.myb {
+    font-size: 29.9px;
+
+}
